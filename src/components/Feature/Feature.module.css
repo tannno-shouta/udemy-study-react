@@ -1,0 +1,44 @@
+.feature {
+  width: 100%;
+  height: auto;
+  border-top: solid 3px #eaeaea;
+  margin-bottom: 30px;
+}
+
+.feature_main_body {
+  width: 50%;
+  height: auto;
+  display: flex;
+  margin: 0 auto;
+}
+
+.feature_image {
+  display: block;
+  width: 50%;
+  margin-top: 20px;
+}
+
+.feature_body {
+  display: block;
+  width: 50%;
+  margin: 150px 10px;
+}
+
+.feature_title {
+  display: block;
+  width: 50px;
+  border-top: solid 4px #ccffff;
+  font-size: 22px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #eaeaea;
+  padding: 3px;
+  margin-bottom: 20px;
+  margin-left: 30%;
+}
+
+.feature_text {
+  font-size: 12px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #eaeaea;
+  margin: 10px;
+}
