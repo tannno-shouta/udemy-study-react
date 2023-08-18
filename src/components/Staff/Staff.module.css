@@ -1,0 +1,39 @@
+.staff {
+  width: 100%;
+  height: auto;
+  border-top: solid 3px #eaeaea;
+}
+
+.stylist_main {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.stylist_main_body {
+  width: 30%;
+  height: auto;
+  text-align: center;
+}
+
+.stylist_image {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.stylist_name {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 32px;
+  color: #eaeaea;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.stylist_text {
+  font-size: 12px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #eaeaea;
+  margin: 10px;
+}
